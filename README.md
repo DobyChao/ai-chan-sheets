@@ -164,6 +164,8 @@ ZipZipPipe/
 2026 年 10 月 20 日 [X 上的这条推文](https://x.com/ScarletKc/status/2112406550186967218)发布后，Star 一天涨了 195。下图是按 UTC 日期聚合的累计
 Star 数，数据来自 GitHub REST API 的 stargazers 接口：
 
+> 更正：此前误写为微博转发，现已更正为 [X 上的推文](https://x.com/ScarletKc/status/2112406550186967218)。感谢 [@scarletkc](https://github.com/scarletkc) 在 [#7](https://github.com/lmy414/ai-chan-sheets/issues/7) 中指正。
+
 <img src="docs/star-history.svg" alt="Star 增长曲线" width="100%">
 
 截至 2026-10-22 共 265 Stars。
