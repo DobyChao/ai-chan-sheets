@@ -1,0 +1,6 @@
+{
+  "tool": "built-in image_gen",
+  "prompt": "Edit the provided full-body anime whale-girl illustration. Change ONLY her facial expression to be more serious, composed, thoughtful and quietly confident: close her mouth into a small relaxed neutral line with no smile, subtly lower the upper eyelids for a steady focused forward gaze, gently straighten/lower the brows without an angry scowl, reduce the pink blush. Keep her recognizable original face shape, blue eyes, youthful adult appearance and delicate anime features. Expression should feel calm and reserved, not angry, sad, threatening or exhausted. Preserve all other content as closely as possible: the exact full-body front-view standing pose, body proportions, hands, navy-to-light-blue long hair, loop ahoge, two whale fin ears and blue bows, whale tail, goggles, right-side whale hair clip and red bow, ivory cold-shoulder cable-knit turtleneck sweater, red scarf, brown suspenders and belt, navy cuffed shorts, pouch and tassel placements, single right-thigh leather strap, dark thigh-high socks, brown lace-up boots, original linework, shading, palette, pure white background, composition and margins. One character only, no text. The edit must visibly remove the open happy smile and give her a serious calm demeanor.",
+  "source": "A01_正面全身_v01.png",
+  "output": "A01_正面全身_v02_严肃.png"
+}

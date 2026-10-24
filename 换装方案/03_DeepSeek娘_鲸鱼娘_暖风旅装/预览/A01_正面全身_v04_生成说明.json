@@ -1,0 +1,6 @@
+{
+  "tool": "built-in image_gen",
+  "prompt": "Make one minimal local edit to this original anime illustration: change ONLY the open smiling mouth to a small gently curved CLOSED-MOUTH SMILE, lips together, corners subtly upturned, no visible teeth or tongue. Keep the original warm friendly mood. Preserve her eyebrows, blue eyes, gaze, eyelids, blush, face shape and all other facial details EXACTLY as the input. Do not make her stern or sad. Everything else must remain unchanged: character identity, full-body front-view pose, proportions, hair and loop ahoge, goggles, whale fin ears, whale clip, clothes, scarf, accessories, hands, boots, whale tail, shading, colors, white background, framing and dimensions. Only close her mouth into a soft natural smile. No text.",
+  "source": "A01_正面全身_v01.png",
+  "output": "A01_正面全身_v04_闭嘴微笑.png"
+}
